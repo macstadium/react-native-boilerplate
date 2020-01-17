@@ -5,5 +5,5 @@ React native boilerplate project used for benchmark testing
 
 ```
 $ cd ios
-$ xcodebuild clean build -workspace rn.xcworkspace -scheme rn -configuration Release CODE_SIGNING_ALLOWED=NO    
+$ xcodebuild clean build -workspace rn.xcworkspace -scheme rn CODE_SIGNING_ALLOWED=NO    
 ```
